@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\UnitTest\\UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj",
+        "projectName": "Nintex.Business",
+        "projectPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj",
+        "packagesPath": "C:\\Users\\MHV\\.nuget\\packages\\",
+        "outputPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MHV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Service\\Nintex.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Service\\Nintex.Service.csproj",
+        "projectName": "Nintex.Service",
+        "projectPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Service\\Nintex.Service.csproj",
+        "packagesPath": "C:\\Users\\MHV\\.nuget\\packages\\",
+        "outputPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MHV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj": {
+                "projectPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\UnitTest\\UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\UnitTest\\UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "C:\\Users\\MHV\\.nuget\\packages\\",
+        "outputPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MHV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj": {
+                "projectPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Business\\Nintex.Business.csproj"
+              },
+              "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Service\\Nintex.Service.csproj": {
+                "projectPath": "C:\\MHV\\Mhv Projects\\Interview\\Nintex\\Nintex.Service\\Nintex.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

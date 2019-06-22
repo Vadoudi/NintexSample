@@ -1,0 +1,11 @@
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Release\netcoreapp2.1\Nintex.Business.deps.json
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Release\netcoreapp2.1\Nintex.Business.runtimeconfig.json
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Release\netcoreapp2.1\Nintex.Business.runtimeconfig.dev.json
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Release\netcoreapp2.1\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Release\netcoreapp2.1\Nintex.Business.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Release\netcoreapp2.1\Nintex.Business.csprojAssemblyReference.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Release\netcoreapp2.1\Nintex.Business.csproj.CoreCompileInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Release\netcoreapp2.1\Nintex.Business.AssemblyInfoInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Release\netcoreapp2.1\Nintex.Business.AssemblyInfo.cs
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Release\netcoreapp2.1\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Release\netcoreapp2.1\Nintex.Business.pdb

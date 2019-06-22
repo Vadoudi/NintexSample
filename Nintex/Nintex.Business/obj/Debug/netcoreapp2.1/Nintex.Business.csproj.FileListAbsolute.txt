@@ -1,0 +1,17 @@
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Debug\netcoreapp2.1\Nintex.Business.deps.json
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\bin\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.csproj.CoreCompileInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.AssemblyInfoInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.AssemblyInfo.cs
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.csprojAssemblyReference.cache
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\bin\Debug\netcoreapp2.1\Nintex.Business.deps.json
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\bin\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\bin\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.csproj.CoreCompileInputs.cache
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.AssemblyInfoInputs.cache
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.AssemblyInfo.cs
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Business\obj\Debug\netcoreapp2.1\Nintex.Business.pdb

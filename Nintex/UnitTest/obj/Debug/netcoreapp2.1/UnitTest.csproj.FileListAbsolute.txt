@@ -1,0 +1,38 @@
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Service.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Service.pdb
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CopyComplete
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\MHV\Source\Repos\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Service.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\bin\Debug\netcoreapp2.1\Nintex.Service.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CopyComplete
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\MHV\Mhv Projects\Interview\Nintex\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

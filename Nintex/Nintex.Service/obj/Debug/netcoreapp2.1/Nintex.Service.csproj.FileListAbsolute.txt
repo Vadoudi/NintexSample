@@ -1,0 +1,24 @@
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Service.deps.json
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Service.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Service.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.csprojAssemblyReference.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.csproj.CoreCompileInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.AssemblyInfoInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.AssemblyInfo.cs
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.csproj.CopyComplete
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Service.deps.json
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Service.dll
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Service.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Business.dll
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\bin\Debug\netcoreapp2.1\Nintex.Business.pdb
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.csprojAssemblyReference.cache
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.csproj.CoreCompileInputs.cache
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.AssemblyInfoInputs.cache
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.AssemblyInfo.cs
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.csproj.CopyComplete
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.dll
+C:\MHV\Mhv Projects\Interview\Nintex\Nintex.Service\obj\Debug\netcoreapp2.1\Nintex.Service.pdb

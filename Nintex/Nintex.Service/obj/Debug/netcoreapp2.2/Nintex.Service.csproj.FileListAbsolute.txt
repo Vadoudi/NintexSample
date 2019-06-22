@@ -1,0 +1,12 @@
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.csprojAssemblyReference.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.csproj.CoreCompileInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.AssemblyInfoInputs.cache
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.AssemblyInfo.cs
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.2\Nintex.Service.deps.json
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.2\Nintex.Service.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.2\Nintex.Service.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.2\Nintex.Business.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\bin\Debug\netcoreapp2.2\Nintex.Business.pdb
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.csproj.CopyComplete
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.dll
+C:\Users\MHV\Source\Repos\Nintex\Nintex.Service\obj\Debug\netcoreapp2.2\Nintex.Service.pdb
